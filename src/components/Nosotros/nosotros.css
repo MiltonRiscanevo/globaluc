@@ -1,0 +1,16 @@
+.nosotros{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-nosotros{
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+}
+.p-nosotros{
+    text-align: justify;
+    width: 50%;
+    margin: 10px;
+    font-size: 20px;
+}
